@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/1-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/2-Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/3-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/4-Components.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/5-Architecture.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    StartSection="false"
+    conditions="Default.KnowledgeCheck"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/7-Applications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.KnowledgeCheck"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/Conclusion.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/6-Advantages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/Future Trends of Embedded Systems.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.KnowledgeCheck" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Embedded System/Course-Content/The-End.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Default.KnowledgeCheckOnly" />
+  <TocEntry
+    Title="ES-Test"
+    IsTest="true"
+    RandomizeAnswers="true"
+    TestPassScore="80"
+    LimitTestRetries="true"
+    TestRetries="1"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    Link="/Content/Embedded System/Course-Test/ES-Test-Intro.htm"
+    conditions="Default.Test,Default.TestOnly,Default.PrintOnly,Default.EmbeddedSystem,Default.CombinationCourseOnly"
+    TestPassPage=""
+    TestFailPage="">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/ES-Test-Intro.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question4.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question5.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Embedded System/Course-Test/Question6.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+</CatapultToc>

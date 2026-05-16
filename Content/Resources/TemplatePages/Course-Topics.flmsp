@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <p>
+            <img src="../Images/Correct logo of ES.png" style="width: 955px;height: 175px;" />
+        </p>
+        <div class="Body-Content">
+            <MadCap:bodyProxy />
+            <MadCap:eLearningToolbarProxy />
+        </div>
+    </body>
+</html>

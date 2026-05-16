@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder="Embedded System\Course-Content"
+  LastImport="2026-04-23T11:03:11.4998312+05:30">
+  <Files>
+    <Url
+      Source="../../../../../Desktop/Upthink_2025/Labs/Physics Lab Grading_SOP.docx"
+      AbsoluteSource="file:///C:/Users/Abcom/Desktop/Upthink_2025/Labs/Physics Lab Grading_SOP.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Physics Lab Grading_SOP.png"
+      TimeStamp="4/23/2026 11:03:00 AM" />
+    <Url
+      Source="../../Content/Embedded System/Course-Content/Physics Science Lab Grading.htm"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Embedded System/Course-Content/Feedback Grading.htm"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_1.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix.jpg"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_2.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_3.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_4.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_5.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_6.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Images/Physics Lab Grading_SOP/Appendix_7.png"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Embedded System/Course-Content/Appendix.htm"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../TOCs/Physics Lab Grading_SOP.fltoc"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/TemplatePages/Physics Lab Grading_SOP.flmsp"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Physics Lab Grading_SOP.css"
+      TimeStamp="4/23/2026 11:03:01 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Body Text"
+      To="p.BodyText"
+      Style="Word" />
+    <Map
+      From="Heading 1"
+      To="h1.Heading1"
+      Style="Word" />
+    <Map
+      From="Heading 2"
+      To="h2.Heading2"
+      Style="Word" />
+    <Map
+      From="List Paragraph"
+      To="p.ListParagraph"
+      Style="Word" />
+    <Map
+      From="Table Paragraph"
+      To="p.TableParagraph"
+      Style="Word" />
+    <Map
+      From="Title"
+      To="p.Title"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles />
+  <NewTopicStyles>
+    <StyleName
+      Name="Heading 1" />
+  </NewTopicStyles>
+</MsWordImport>
