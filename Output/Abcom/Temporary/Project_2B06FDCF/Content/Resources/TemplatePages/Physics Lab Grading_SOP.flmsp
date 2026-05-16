@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/Physics Lab Grading_SOP.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div>
+            <p class="BodyText_17">
+                <img src="../Images/Physics Lab Grading_SOP/Physics Lab Grading_SOP.png" class="img_10" />
+            </p>
+            <p class="BodyText_18">&#160;</p>
+        </div>
+        <MadCap:bodyProxy />
+        <div>
+            <p class="BodyText_20">
+                <div class="div_1">
+                    <p class="BodyText_19">Updated <span class="span_15">8</span>/31/2024</p>
+                </div>
+            </p>
+        </div>
+    </body>
+</html>

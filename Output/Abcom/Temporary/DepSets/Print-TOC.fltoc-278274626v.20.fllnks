@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileSearchable="false"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="Content/Print-Only-Topics/Title-Page.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/Frontmatter.flpgl" />
+    <Link
+      Url="Content/Course-Content/1-Course-Title.htm" />
+    <Link
+      Url="Content/Resources/PageLayouts/Chapters.flpgl" />
+    <Link
+      Url="Content/Course-Content/2-Just-Text.htm" />
+    <Link
+      Url="Content/Course-Content/3-Two-Tiles.htm" />
+    <Link
+      Url="Project/ConditionTagSets/Default.flcts" />
+    <Link
+      Url="Content/Course-Knowledge-Check/First-Knowledge-Check.htm" />
+    <Link
+      Url="Content/Course-Content/4-0-Hotspot-Popups.htm" />
+    <Link
+      Url="Content/Course-Content/5-Drop-Downs.htm" />
+    <Link
+      Url="Content/Course-Knowledge-Check/Second-Knowledge-Check.htm" />
+    <Link
+      Url="Content/Course-Content/6-Slideshow.htm" />
+    <Link
+      Url="Content/Course-Content/7-Video.htm" />
+    <Link
+      Url="Content/Course-Content/8-IFrame.htm" />
+    <Link
+      Url="Content/Course-Knowledge-Check/The-End.htm" />
+    <Link
+      Url="Content/Course-Test/Austin-Test-Intro.htm" />
+    <Link
+      Url="Content/Course-Test/Question1.htm" />
+    <Link
+      Url="Content/Course-Test/Question2.htm" />
+    <Link
+      Url="Content/Course-Test/Question3.htm" />
+    <Link
+      Url="Content/Course-Test/Question4.htm" />
+    <Link
+      Url="Content/Course-Test/Question5.htm" />
+  </Links>
+  <LongLinks />
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions>
+    <Condition
+      Tag="Default.KnowledgeCheck" />
+    <Condition
+      Tag="Default.KnowledgeCheckOnly" />
+    <Condition
+      Tag="Default.Test" />
+  </AllConditions>
+  <Stylesheets />
+</CatapultFileLinkSet>

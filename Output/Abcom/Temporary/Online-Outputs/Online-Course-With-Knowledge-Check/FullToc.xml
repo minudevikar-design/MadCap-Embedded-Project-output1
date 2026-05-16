@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" DescendantCount="11">
+    <TocEntry Title="Introduction to Embedded Systems" Link="/Content/Embedded System/Course-Content/1-Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedResetPageLayout="true" ComputedFirstTopic="true" DescendantCount="0" />
+    <TocEntry Title="What is an Embedded System?" Link="/Content/Embedded System/Course-Content/2-Introduction.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="History of Embedded Systems" Link="/Content/Embedded System/Course-Content/3-History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="4-Components" Link="/Content/Embedded System/Course-Content/4-Components.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Embedded System Architecture" Link="/Content/Embedded System/Course-Content/5-Architecture.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Knowledge Check 1" Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" StartSection="false" conditions="Default.KnowledgeCheck" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Applications of Embedded Systems" Link="/Content/Embedded System/Course-Content/7-Applications.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Knowledge Check 2" Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Default.KnowledgeCheck" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Advantages of Embedded Systems" Link="/Content/Embedded System/Course-Content/6-Advantages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="Knowledge Check 3" Link="/Content/Embedded System/Course-Knowledge-Check/ES-Knowledge-Check3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Default.KnowledgeCheck" ComputedFirstTopic="false" DescendantCount="0" />
+    <TocEntry Title="The End" Link="/Content/Embedded System/Course-Knowledge-Check/The-End.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" conditions="Default.KnowledgeCheckOnly" ComputedFirstTopic="false" DescendantCount="0" />
+</CatapultToc>

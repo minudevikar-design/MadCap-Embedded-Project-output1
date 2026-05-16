@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Abcom/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student.pdf"
+  BuildVersion="21.1.9396.41248">
+  <Files>
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Output/Abcom/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student.pdf" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Austin-Logo-Online.png" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Branding/Branding.css" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Austin-Logo-Print.svg" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/Plus.png" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/image1.png" />
+    <Url
+      Source="Output/Abcom/Temporary/ES/PDF-Outputs/PDF-Combination-Course-Student/PDF-Combination-Course-Student_5C765006/Resources/Images/ES header.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>
